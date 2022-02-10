@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Mohammad Haerul Anam**
 
-Saya seorang **Developer Android** di [Dokternak.id](https://www.dokternak.id).
+Saya seorang **Developer** di [Dokternak.id](https://www.dokternak.id).
 
 Saya masih menempuh pendidikan di **Politeknik Negeri Jember**
 
