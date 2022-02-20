@@ -6,7 +6,7 @@ Saya seorang **Developer** di [Dokternak.id](https://www.dokternak.id).
 
 Saya masih menempuh pendidikan di **Politeknik Negeri Jember**
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mhaerulanam/)ku ya.
+<!-- Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mhaerulanam/)ku ya. -->
 
 ### Github Statistic
 <p align="left">
