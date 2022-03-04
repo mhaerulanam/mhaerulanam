@@ -75,7 +75,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun Linkedin aku ya
   <hr/>
 
   <div>
-    <a href="#"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thiagodesouza&custom_title=Thiago%20Souza's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
+    <a href="#"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mhaerulanam&custom_title=Thiago%20Souza's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
   <div> 
 </div>
 
