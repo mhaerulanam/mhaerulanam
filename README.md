@@ -12,7 +12,7 @@ Saya seorang Developer di https://www.dokternak.id.
 <p align="center"> 
 Saya masih menempuh pendidikan di Politeknik Negeri Jember
 <p align="center"> 
-<!-- Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mhaerulanam/)ku ya. -->
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/mohammad-haerul-anam-2201-public)ku ya.
 <p align="center"> 
 <!--   <a href="mailto:dev@thiagosouza.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
   <a href="https://www.linkedin.com/in/thiagosouza-js" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F"></a> 
