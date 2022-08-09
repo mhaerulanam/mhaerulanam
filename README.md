@@ -8,7 +8,7 @@
 <p align="center">  
   Perkenalkan nama saya <b>Mohammad Haerul Anam</b>
 <p align="center"> 
-Saya seorang Developer Mobile Android and Web di https://www.dokternak.id.
+Saya seorang Developer Mobile Android dan Web di https://www.dokternak.id.
 <p align="center"> 
 Saya masih menempuh pendidikan di Politeknik Negeri Jember
 <p align="center"> 
