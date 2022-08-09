@@ -66,8 +66,8 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun Linkedin aku ya
 <diV>
 
   <div align="center">
-    <a href="#"><img alt="Thiago's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mhaerulanam&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
-    <a href="#"><img alt="Thiago's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhaerulanam&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
+    <a href="#"><img alt="Anam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mhaerulanam&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
+    <a href="#"><img alt="Anam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhaerulanam&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
@@ -75,7 +75,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun Linkedin aku ya
   <hr/>
 
   <div>
-    <a href="#"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mhaerulanam&custom_title=Thiago%20Souza's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
+    <a href="#"><img alt="Anam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mhaerulanam&custom_title=Mohammad%20Haerul%20Anam%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
   <div> 
 </div>
 
